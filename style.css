@@ -1,0 +1,48 @@
+body{
+  font-family: Poppins, Helvetica, sans-serif;
+  font-weight: 300;
+  background: linear-gradient(to bottom right, #00f490, #00bbc9);
+}
+
+
+h1{
+  font-family: 'Bebas Neue', cursive;
+  color: aliceblue;
+  
+}
+
+.jumbotron{
+  background-color: rgba(128, 128, 128, 0);
+}
+
+.drop-shadow{
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.205);
+}
+
+.lead{
+  font-size: 1rem;
+  
+}
+
+.btn{
+  background-color: #029980;
+}
+.btn-dark{
+  border-color: white;
+}
+
+.btn-dark:hover {
+  background-color: rgb(0, 138, 148);
+  border-color: white;
+}
+
+.card-deck{
+  margin-bottom: 100px;
+}
+
+footer{
+text-align: center;
+font-size: small;
+margin-bottom: 20px;
+}
+
